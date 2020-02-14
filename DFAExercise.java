@@ -2,7 +2,7 @@
 Author: Joanna Vasileiou
 Date: 3/2/2020
                             DFA
-Reading from file "dfa.txt" the properties for the automatic
+Reading from file "dfa.txt" the properties for the automato
 Enter the word from keyboard and check if "accepted" or "rejected".
 
 dfa.txt
