@@ -2,7 +2,7 @@
 Author: Joanna Vasileiou
 Date: 3/2/2020
                             DFA
-Reading from file "dfa.txt" the properties for the automato
+Reading from file "dfa.txt" the properties for the automatic
 Enter the word from keyboard and check if "accepted" or "rejected".
 
 dfa.txt
@@ -11,9 +11,9 @@ dfa.txt
 0 1     // alphabet
 0       // first state
 0 1     // final states
-0 1 1   // path of states: q0 goes to g1 when it reads 1. The first and the third number are states
+0 1 1   // path of states: q0 goes to q1 when it reads 1. The first and the third number are states
 0 0 0
-1 1 2   // q1 goes to g2 when it reads 1 the same things under
+1 1 2   // q1 goes to q2 when it reads 1 the same things under
 1 0 0
 2 1 2
 2 0 2
